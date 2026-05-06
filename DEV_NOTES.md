@@ -16,3 +16,7 @@ Personal development log — notes, findings, and ongoing work.
 ## 2026-05-06
 - Cross-checked behaviour against spec
 - Fixed minor edge case in input handling
+
+## 2026-05-06
+- Fixed minor edge case in input handling
+- Refactored module structure for clarity
